@@ -1,1 +1,0 @@
-console.log('PASIYA Markets Academy Premium');
